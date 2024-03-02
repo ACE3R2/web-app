@@ -17,79 +17,47 @@ const { t } = useI18n({
     <template #icon>
       <DocumentationIcon />
     </template>
-    <template #heading>  {{t('member_page.Eric_general')}}</template>
-    {{t('member_page.Eric_detail')}}
+    <template #heading>  {{t('member_page.Chris_general')}}</template>
+    <!-- {{t('member_page.Eric_detail')}} -->
   </ListItem>
 
   <ListItem>
     <template #icon>
       <DocumentationIcon />
     </template>
-    <template #heading>{{t('member_page.Anthony_general')}}</template>
-    {{t('member_page.Anthony_detail')}}
+    <template #heading>{{t('member_page.Simon_general')}}</template>
+    <!-- {{t('member_page.Anthony_detail')}} -->
   </ListItem>
 
   <ListItem>
     <template #icon>
       <ToolingIcon />
     </template>
-    <template #heading>{{t('member_page.Amaan_general')}}</template>
-    {{t('member_page.Amaan_detail')}}
+    <template #heading>{{t('member_page.Benjamin_general')}}</template>
+    <!-- {{t('member_page.Amaan_detail')}} -->
   </ListItem>
 
   <ListItem>
     <template #icon>
       <ToolingIcon />
     </template>
-    <template #heading>{{t('member_page.Dylan_general')}}</template>
-    {{t('member_page.Dylan_detail')}}
+    <template #heading>{{t('member_page.Alice_general')}}</template>
+    <!-- {{t('member_page.Dylan_detail')}} -->
   </ListItem>
 
   <ListItem>
     <template #icon>
       <ToolingIcon />
     </template>
-    <template #heading>{{t('member_page.Sam_general')}}</template>
-    {{t('member_page.Sam_detail')}}
+    <template #heading>{{t('member_page.Aidan_general')}}</template>
+    <!-- {{t('member_page.Sam_detail')}} -->
   </ListItem>
 
   <ListItem>
     <template #icon>
       <ToolingIcon />
     </template>
-    <template #heading>{{t('member_page.Yuk_Ting_general')}}</template>
-   {{t('member_page.Yuk_Ting_detail')}}
-  </ListItem>
-
-  <ListItem>
-    <template #icon>
-      <ToolingIcon />
-    </template>
-    <template #heading>{{t('member_page.Annie_general')}}</template>
-    {{t('member_page.Annie_detail')}}
-  </ListItem>
-
-  <ListItem>
-    <template #icon>
-      <DocumentationIcon />
-    </template>
-    <template #heading>{{t('member_page.Keqian_general')}}</template>
-    {{t('member_page.Keqian_detail')}}
-  </ListItem>
-
-  <ListItem>
-    <template #icon>
-      <DocumentationIcon />
-    </template>
-    <template #heading>{{t('member_page.Grey_general')}}</template>
-    {{t('member_page.Grey_detail')}}
-  </ListItem>
-
-  <ListItem>
-    <template #icon>
-      <ToolingIcon />
-    </template>
-    <template #heading>{{t('member_page.Jackie_general')}}</template>
-    {{t('member_page.Jackie_detail')}}
+    <template #heading>{{t('member_page.Aaron_general')}}</template>
+   <!-- {{t('member_page.Yuk_Ting_detail')}} -->
   </ListItem>
 </template>
